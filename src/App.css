@@ -1,0 +1,49 @@
+#root {
+  margin: 0px;
+  padding: 0px;
+}
+
+/* home styling */
+.main{
+  margin: auto;
+  text-align: center;
+  width: 90vw;
+  height: fit-content;
+  margin-top: 3;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center  ;
+}
+.intro{
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  max-width: 50%;
+}
+.inputs{
+  width: 100%;
+  height: max-content;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  max-width: 60%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.inputs textarea{
+  width:100%;
+  height: 100%;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  padding: 1rem;
+  border-radius: 5px;
+}
+.output{
+  width: 100%;
+  height: max-content;
+  font-size: 1.5rem;
+  margin-bottom: 3rem;
+  max-width: 80%;
+}
