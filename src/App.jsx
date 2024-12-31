@@ -28,7 +28,7 @@ function App() {
     <>
     <div className="main">
       <div className="intro">
-      <h1>CodeCalc</h1>
+      <h1>CodeCalc </h1>
        <p>Paste Your Code snippit below to kow the Time and Spcae Complexity of your Code in BigO notation.</p>
        </div>
        <div className="inputs">
