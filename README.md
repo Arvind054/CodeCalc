@@ -1,8 +1,11 @@
-# React + Vite
+**CodeCalc**
+CodeCalc🧑‍💻 is a Simple and Useful web App📱 That can be Used to find the Time⌛ and Space complexity of the code or the code snippit.
+CodeCalc is Easy to use and is userFriendly, along with the time and space complexity of the code it also provides the explaination of 
+of the Time and space Complexity of the code.
+To use CodeCalc visit the Link:_ https://code-calc.vercel.app/_
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Tools and Technologies Used**
+ _FrontEnd_ : ReactJs, HTML , CSS.
+ _Backend_: JavaScript.
+ _Response Generation_: User Google Gemini API Flash mode 1.5.
+ 
