@@ -2,7 +2,7 @@ import { useState } from 'react'
 import './App.css'
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import ReactMarkdown from "react-markdown";
-const KEY = 'AIzaSyAvM7ipxk6kgiJOwFbuxuy-9lmMglcU0_Y'
+const KEY = 'YOUR_API_KEY'
 const genAI = new GoogleGenerativeAI(KEY);
 const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
 function App() {
